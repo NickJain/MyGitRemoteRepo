@@ -1,3 +1,5 @@
 This is first statement.
 
 Now, ready for second commit.
+
+Third commit.
